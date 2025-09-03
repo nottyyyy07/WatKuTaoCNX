@@ -1,0 +1,114 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_BC471225_F674_1E3D_41EB_6044606A1BF8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2704.4475068546863!2d9.084299515858387!3d47.32513101537214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479ac361cd61de7b%3A0x4ac6a1e400f1f145!2sLoretostrasse%2018%2C%209620%20Lichtensteig%2C%20Switzerland!5e0!3m2!1sen!2sit!4v1606172459227!5m2!1sen!2sit
+WebFrame_BC471225_F674_1E3D_41EB_6044606A1BF8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3633.4296014040256!2d98.98861270490386!3d18.803398744622108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30da3a95106ca023%3A0x61d83a5568dcafd6!2z4Lin4Lix4LiU4LiB4Li54LmI4LmA4LiV4LmJ4Liy!5e1!3m2!1sth!2sth!4v1756887569228!5m2!1sth!2sth
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_286919CC_0E69_D54B_419E_DAB22EDD0CFB.text = สนามกีฬาเทศบาลนครเชียงใหม่
+HotspotPanoramaOverlayTextImage_296C62DF_0E7A_D745_4196_99D215B508E1.text = สนามกีฬาเทศบาลนครเชียงใหม่
+HotspotPanoramaOverlayTextImage_28741F64_0E6F_2D7B_41A1_B0E905DFE699.text = สนามกีฬาเทศบาลนครเชียงใหม่
+HotspotPanoramaOverlayTextImage_26045DD6_0E6B_ED47_419D_016CB5E7B195.text = อาคาร 90 ปี ราชภัฏเชียงใหม่
+HotspotPanoramaOverlayTextImage_28216BD5_0E6F_3544_419F_4F2A1F507C7A.text = อาคาร 90 ปี ราชภัฏเชียงใหม่
+HotspotPanoramaOverlayTextImage_293AF0C5_0E6F_5345_4180_77B041C07896.text = อาคาร 90 ปี ราชภัฏเชียงใหม่
+
+## Media
+
+### Image
+imlevel_2484ADC1_0E69_2DBD_419E_7A8E0DF2C228.url = media/panorama_1C3C82F7_0E5F_7744_4182_300B60302273_HS_j7jyxbwq_en.webp
+imlevel_27959CC1_0E6E_D3BC_41A4_0930F89BA9D3.url = media/panorama_1C3C82F7_0E5F_7744_4182_300B60302273_HS_t8hdzck2_en.webp
+imlevel_248D1ECA_0E69_2F4F_41A2_0AAA06FE612E.url = media/panorama_1E84CD6D_0E5F_6D45_41A4_417AE0D3D8AE_HS_3ggijnvd_en.webp
+imlevel_24811E33_0E69_2EDC_418C_7AD201823198.url = media/panorama_1E84CD6D_0E5F_6D45_41A4_417AE0D3D8AE_HS_ntd4p3hv_en.webp
+imlevel_248C9F35_0E69_2EC5_41A2_E8D226858932.url = media/panorama_1E89B7BB_0E5F_5DCD_4196_B2D22D5BFF39_HS_dwcq2beg_en.webp
+imlevel_24897FA2_0E69_2DFF_416E_3B494B664838.url = media/panorama_1E89B7BB_0E5F_5DCD_4196_B2D22D5BFF39_HS_wj6pcfwu_en.webp
+imlevel_2C028231_0E8E_3CE7_419D_65102B614D33.url = media/popup_146E56D9_0E92_05A7_4194_8AC3243BF916_en_0_0.webp
+imlevel_2C029231_0E8E_3CE7_415B_E9C4D5D2F056.url = media/popup_146E56D9_0E92_05A7_4194_8AC3243BF916_en_0_1.webp
+imlevel_2C026231_0E8E_3CE7_418F_27C6BDB9817F.url = media/popup_146E56D9_0E92_05A7_4194_8AC3243BF916_en_0_2.webp
+imlevel_1818D3F7_0E8E_036B_41AB_598C9EA31353.url = media/popup_1FDBAA5D_0E8E_0D5C_4195_462600AC9A62_en_0_0.webp
+imlevel_1818C3F7_0E8E_036B_4193_2077B2D2CC7C.url = media/popup_1FDBAA5D_0E8E_0D5C_4195_462600AC9A62_en_0_1.webp
+imlevel_362484C7_0EBB_3345_41A4_2503743DF18C.url = media/popup_38120FFF_0EBB_2D45_4194_A35448BD2505_en_0_0.webp
+imlevel_3624F4C7_0EBB_3345_41A3_2BB720C07069.url = media/popup_38120FFF_0EBB_2D45_4194_A35448BD2505_en_0_1.webp
+imlevel_3624E4C7_0EBB_3345_41A2_74F6425DBA3D.url = media/popup_38120FFF_0EBB_2D45_4194_A35448BD2505_en_0_2.webp
+imlevel_379FAD80_0E92_07A4_41A7_D98F4BBD5E60.url = media/popup_3D5372C1_0E92_1DA7_4173_FF499FC66DC6_en_0_0.webp
+imlevel_379D9D80_0E92_07A4_4198_234FBFCE2CF8.url = media/popup_3D5372C1_0E92_1DA7_4173_FF499FC66DC6_en_0_1.webp
+imlevel_379DAD80_0E92_07A4_41AB_A822DDD7420A.url = media/popup_3D5372C1_0E92_1DA7_4173_FF499FC66DC6_en_0_2.webp
+
+### Popup Image
+
+### Title
+album_2590CCF8_0EB2_0565_419D_D823506C7D04_0.label = 1
+album_2590CCF8_0EB2_0565_419D_D823506C7D04_7.label = 1396308842
+album_2590CCF8_0EB2_0565_419D_D823506C7D04_1.label = 79810530_1218177595047277_1380494534378520576_n
+album_2590CCF8_0EB2_0565_419D_D823506C7D04_2.label = 79825965_1218181911713512_9000957056647168000_n
+album_2590CCF8_0EB2_0565_419D_D823506C7D04_3.label = 79832772_1218173601714343_2013715392622493696_n
+album_2590CCF8_0EB2_0565_419D_D823506C7D04_4.label = 80596401_1218188508379519_6306838335176310784_n
+album_2590CCF8_0EB2_0565_419D_D823506C7D04_5.label = 80620906_1218113995053637_1665271962982678528_n
+album_2590CCF8_0EB2_0565_419D_D823506C7D04_6.label = 80720410_1218187975046239_7423321766740623360_n
+panorama_1C3C82F7_0E5F_7744_4182_300B60302273.label = DJI_20250902090551_0090_D
+panorama_1E84CD6D_0E5F_6D45_41A4_417AE0D3D8AE.label = DJI_20250902090721_0091_D
+panorama_1E89B7BB_0E5F_5DCD_4196_B2D22D5BFF39.label = DJI_20250902090913_0092_D
+album_2590CCF8_0EB2_0565_419D_D823506C7D04.label = Photo Album 1
+panorama_168247CF_0E96_03BB_4198_EC2AA6953E6F.label = frame_0017
+panorama_25902D81_0E59_6DBC_41A5_97ABF27466FA.label = frame_0018_Nero_AI_Image_Denoiser
+panorama_17CB39A4_0E96_0FEC_41A9_22E44458ED50.label = frame_0023
+panorama_24325150_0E59_755C_41A7_CD9A4A2463E1.label = frame_0024_Nero_AI_Image_Denoiser
+panorama_1480A813_0E92_0CAB_4192_9CA3D3412A32.label = frame_0032
+panorama_242AC4B2_0E59_73DF_41A0_C73AEDF627B6.label = frame_0035_Nero_AI_Image_Denoiser
+panorama_147BA65E_0E9E_055D_41A0_8B64DA51471B.label = frame_0040
+panorama_2432E87B_0E59_734C_41A8_9552BFA1B602.label = frame_0042_Nero_AI_Image_Denoiser
+panorama_24328BCC_0E59_754B_41A0_CAD059F3FAC1.label = frame_0051_Nero_AI_Image_Denoiser
+panorama_2432FF90_0E59_6DDB_4195_F82D87DF83FB.label = frame_0063_Nero_AI_Image_Denoiser
+album_2590CCF8_0EB2_0565_419D_D823506C7D04_8.label = gp63afc12981c6f
+model_021BC03F_0E59_52C5_41A6_07E6EACA8A02.label = gs_
+
+## Skin
+
+### Image
+Image_07DC90BB_0856_9A8F_4186_B1856D8C9AA4_mobile.url = skin/Image_07DC90BB_0856_9A8F_4186_B1856D8C9AA4_mobile_en.png
+Image_1022900D_077B_7A71_4181_E0BC4E37C1BE.url = skin/Image_1022900D_077B_7A71_4181_E0BC4E37C1BE_en.jpg
+Image_10BC432D_0E92_7CFC_41A3_A0B589C3EE20.url = skin/Image_10BC432D_0E92_7CFC_41A3_A0B589C3EE20_en.jpg
+Image_1103FAD3_0755_0F91_4174_DC9AC10C2755.url = skin/Image_1103FAD3_0755_0F91_4174_DC9AC10C2755_en.png
+Image_139185DC_020F_6AA3_4179_F242260702C0.url = skin/Image_139185DC_020F_6AA3_4179_F242260702C0_en.png
+Image_16C13CB3_0757_0B91_417D_7A49E2D18A56.url = skin/Image_16C13CB3_0757_0B91_417D_7A49E2D18A56_en.jpg
+Image_2EE46430_0E67_52DB_41A5_6ED4C7011401.url = skin/Image_2EE46430_0E67_52DB_41A5_6ED4C7011401_en.png
+Image_BDE1ADFE_FB3E_E68F_41E4_3A47A919EC08_mobile.url = skin/Image_BDE1ADFE_FB3E_E68F_41E4_3A47A919EC08_mobile_en.png
+Image_BEED469C_F674_0613_419A_188F69730270.url = skin/Image_BEED469C_F674_0613_419A_188F69730270_en.jpg
+Image_BEED469C_F674_0613_419A_188F69730270_mobile.url = skin/Image_BEED469C_F674_0613_419A_188F69730270_mobile_en.png
+
+### Label
+Label_2C59F1A7_0E79_55C5_41AC_05099063A32F.text = 3D Drone
+Label_2F05CFCB_0E79_2D4C_41A9_4CFB7BEA586C.text = @วัดกู่เต้า
+Label_9AFE9A8F_B1D5_AE96_41E0_2C0AE3267778.text = FULL SCREEN
+Label_2105B1B0_06B6_0D62_4172_B0FC70D39470_mobile.text = GYROSCOPE
+Label_D23DE6A0_B66B_A68A_41E0_210CE8D58F95.text = HIDE ALL
+Label_9EC9EAE1_B1D5_AE8A_41D8_32C2317312A5.text = HOT SPOT
+Label_9EC9EAE1_B1D5_AE8A_41D8_32C2317312A5_mobile.text = HOT SPOT
+Label_9BB4A04C_B1DC_999A_41E1_A0AE5EC26BC3_mobile.text = SOUND
+Label_9BB4A04C_B1DC_999A_41E1_A0AE5EC26BC3.text = SOUND
+Label_9AFE9A8F_B1D5_AE96_41E0_2C0AE3267778_mobile.text = VOLLBILD
+Label_2E5A97A3_06BA_1566_4195_A2BF0B34A913_mobile.text = VR
+Label_EDC98328_F674_1E33_41E6_C1E9E250738F_mobile.text = ©PIXELPN.COM
+
+### Multiline Text
+HTMLText_890550BD_B6BC_FAFA_41D9_32D7D26897F4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.399999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#575f6b;font-size:6.4vmin;"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.62vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.62vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.666666666666666vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#575f6b;font-size:2.67vmin;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultrices lacinia tellus, at dictum nisl. Vivamus posuere quam orci, sed euismod lectus ullamcorper eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla nulla ante, maximus a laoreet ut, viverra a ligula. Vestibulum viverra, justo at iaculis aliquam, lacus nibh maximus enim, ultrices tristique metus turpis non elit. In hac habitasse platea dictumst. Etiam vitae lorem non diam imperdiet molestie quis ut mauris. Maecenas et molestie tellus. Ut vel est mi. Mauris viverra, orci et tincidunt finibus, quam sapien posuere odio, in placerat nisi ligula non sapien. Donec imperdiet leo ipsum, in congue eros euismod eget. Donec ut magna enim.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.67vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.62vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.666666666666666vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#575f6b;font-size:2.67vmin;">Mauris ornare vel ipsum a iaculis. Donec dapibus iaculis lectus finibus volutpat. In et viverra nisl. Curabitur gravida vitae purus ac euismod. In ut condimentum ex. Quisque suscipit laoreet dictum. Nullam lobortis, libero at dapibus blandit, erat leo iaculis sapien, sit amet consectetur lectus elit a purus. Etiam porta suscipit pharetra. Duis vehicula blandit sapien, eget ultricies neque. Sed et varius ante. Donec vitae gravida purus. Nunc vulputate tellus augue, a vestibulum felis luctus at.</SPAN></SPAN></DIV></div>
+HTMLText_890550BD_B6BC_FAFA_41D9_32D7D26897F4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.7521902377972465vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#575f6b;font-size:1.75vw;font-family:'Anakotmai Light';"><U>วัดกู่เต้า</U></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.62vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2515644555694618vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="display:inline-block; letter-spacing:0.13vw; white-space:pre-wrap;color:#575f6b;font-size:1.25vw;font-family:'Anakotmai Light';">วัดกู่เต้า เป็นวัดในศาสนาพุทธ ตั้งอยู่ในจังหวัดเชียงใหม่ ประเทศไทย สร้างขึ้นใน พ.ศ.2156 เพื่อประดิษฐานพระอัฐิของพระเจ้านรธาเมงสอผู้ปกครองล้านนาคนแรกที่เป็นชาวพม่า วัดแห่งนี้เป็นที่รู้จักเพราะมีพระเจดีย์อันโดดเด่นที่สร้างขึ้นแบบยูนนาน ทำเป็นทรงกลมห้าชั้นลดหลั่นกันเป็นลำดับ ซึ่งเป็นสัญลักษณ์ถึงพระเจ้าห้าพระองค์ที่ตรัสรู้แล้วในอดีตและจะตรัสรู้ในอนาคต</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2515644555694618vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="display:inline-block; letter-spacing:0.13vw; white-space:pre-wrap;color:#575f6b;font-size:1.25vw;font-family:'Anakotmai Light';">ปัจจุบัน วัดนี้เป็นศูนย์รวมศรัทธาของชาวไทใหญ่ในเชียงใหม่</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.04vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.62vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;text-indent:15px;padding-right:15px;font-size:1.1889862327909888vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;text-indent:15px;"><SPAN STYLE="color:#575f6b;font-size:1.19vw;font-family:'Anakotmai Light';text-indent:15px;">วัดกู่เต้า มีพระครูประภัศร์ธรรมรังสี รือครูบาจันต๊ะรังษี เป็นเจ้าอาวาส</SPAN></SPAN></DIV></div>
+HTMLText_BB571037_F674_3A1D_41E3_84921A2B25F6_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.66666666666666vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;"><B>TITLE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.166666666666667vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vmin;"><B><I>Subtitle</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.63vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.777777777777776vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.78vmin;font-family:Tahoma, Geneva, sans-serif;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. </SPAN></SPAN></DIV></div>
+HTMLText_BB571037_F674_3A1D_41E3_84921A2B25F6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.761855132881712vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.76vw;font-family:'Anakotmai Bold';"><B>วัดกู่เต้า</B></SPAN></SPAN></DIV><DIV STYLE="line-height:139%;text-align:left;font-size:1.4392991239048811vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:1.44vw;font-family:'Anakotmai Medium';">วัดป่าหก-วัดกู่เต้า (เวฬุนาราม)</SPAN></SPAN></DIV><DIV STYLE="line-height:139%;text-align:left;font-size:1.4392991239048811vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:1.44vw;font-family:'Anakotmai Medium';">ต.ศรีภูมิ อ.เมือง จ.เชียงใหม่</SPAN></SPAN></DIV><DIV STYLE="line-height:139%;text-align:left;font-size:1.4392991239048811vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:1.44vw;font-family:'Anakotmai Medium';">[พระเกศาธาตุ]</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.63vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.63vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:130%;text-align:left;font-size:0.9379885356956744vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.94vw;font-family:'Anakotmai Light';">วัดกู่เต้า หรือวัดเวฬุวนาราม สร้างขึ้นเมื่อพ.ศ. ๑๙๙๓ และได้รับพระราชทานวิสุงคามสีมาเมื่อ พ.ศ. ๑๙๕๕ สาเหตุที่ได้ชื่อว่า ‘'เวฬุวันวิหาร” ซึ่งแปลว่า วิหารในป่าไผ่นั้น โดยในอดีตเมื่อประมาณปี </SPAN></SPAN></DIV><DIV STYLE="line-height:130%;text-align:left;font-size:0.9379885356956744vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.94vw;font-family:'Anakotmai Light';">พ.ศ. ๒๔๖๐ วัดนี้อยู่ในป่าไผ่จริงๆ แต่ปัจจุบันไม่มีแล้ว สำหรับอีกสาเหตุหนึ่งคือคำว่า ‘'กู่”  แปลว่า บรรจุอัฐิหรือเถ้าถ่านกับคำว่า ‘'เต้า” (เสียงครึ่งตรีครึ่งโท) ซึ่งหมายถึง ผลแตงโม จึงรวมกันได้ว่า ‘'สถูปอันมีลักษณะคล้ายผลแตงโม” แต่ทั้งนี้ในการออกเสียงของชาวบ้านนั้น บ้างก็ออกเสียง ‘'กู่เต้า”  เป็นเสียงโท ซึ่งคำนี้จะหมายถึง ขี้เถ้า ซึ่งอาจกล่าวได้ว่า เป็นที่บรรจุพระอังคารธาตุของพระพุทธเจ้า</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.63vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:130%;text-align:left;font-size:0.9379885356956744vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.94vw;font-family:'Anakotmai Light';">ตำนานพระเจ้าเลียบโลกกล่าวว่า...หลังจากสมเด็จพระสัมมาสัมพุทธเจ้า เสด็จไปวัดสวนดอก พระองค์ก็เสด็จไปทางทิศตะวันออกเฉียงเหนือ ทรงประทับนั่งที่โคนต้นไม้หกกอหนึ่ง แล้วทรงพยากรณ์ว่า “ต่อไปภายหน้า สถานที่นี้จะได้ชื่อว่า “ป่าเวฬุวนาราม” แล้วพระอรหันต์และพระเจ้าอโศกราชก็ทูลขอพระเกศาธาตุหนึ่งองค์ บรรจุไว้ในที่นั้นปรากฏชื่อว่า “เวฬุวันวัดป่าหก” บัดนี้แล (วัดกู่เต้า อ.เมือง จ.เชียงใหม่)</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.63vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.94vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.63vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.9379885356956744vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.94vw;font-family:Tahoma, Geneva, sans-serif;"> </SPAN></SPAN></DIV></div>
+HTMLText_16F99CE4_067E_14E2_416E_54FBF81C1620_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 5px rgba(0,0,0,0.64);text-align:left;font-size:6.666666666666664vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.67vw;"><B>TITLE</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 5px rgba(0,0,0,0.64);text-align:left;font-size:3.4666666666666672vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.47vw;"><B><I>Subtitle</I></B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_89732A38_B6AF_69FA_41AD_86B0D722653A_mobile.toolTip = CONTACT
+IconButton_89732A38_B6AF_69FA_41AD_86B0D722653A.toolTip = CONTACT
+IconButton_AE77F148_B26C_9B9A_41D8_36C8FE4CE2FD.toolTip = Einstellungen
+IconButton_AE77F148_B26C_9B9A_41D8_36C8FE4CE2FD_mobile.toolTip = Einstellungen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = วัดกู่เต้า
